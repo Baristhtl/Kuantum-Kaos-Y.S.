@@ -1,3 +1,7 @@
+////////////////////////////////////////////
+//           BARIŞ TAHTALIOĞLU            //
+//              TH-GROUP                  //
+////////////////////////////////////////////
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -216,4 +220,5 @@ public class Main {
             System.out.println("*********************************");
         }
     }
+
 }
