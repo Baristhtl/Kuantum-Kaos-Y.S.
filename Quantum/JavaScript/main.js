@@ -1,3 +1,8 @@
+////////////////////////////////////////////
+//           BARIŞ TAHTALIOĞLU            //
+//              TH-GROUP                  //
+////////////////////////////////////////////
+
 const readline = require('readline');
 
 // Kullanıcıdan veri almak için arayüz
@@ -198,4 +203,5 @@ async function main() {
 }
 
 // Programı başlat
+
 main();
