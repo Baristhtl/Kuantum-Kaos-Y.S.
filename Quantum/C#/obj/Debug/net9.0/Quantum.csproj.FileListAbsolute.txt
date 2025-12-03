@@ -1,0 +1,14 @@
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\bin\Debug\net9.0\Quantum.exe
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\bin\Debug\net9.0\Quantum.deps.json
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\bin\Debug\net9.0\Quantum.runtimeconfig.json
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\bin\Debug\net9.0\Quantum.dll
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\bin\Debug\net9.0\Quantum.pdb
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\obj\Debug\net9.0\Quantum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\obj\Debug\net9.0\Quantum.AssemblyInfoInputs.cache
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\obj\Debug\net9.0\Quantum.AssemblyInfo.cs
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\obj\Debug\net9.0\Quantum.csproj.CoreCompileInputs.cache
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\obj\Debug\net9.0\Quantum.dll
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\obj\Debug\net9.0\refint\Quantum.dll
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\obj\Debug\net9.0\Quantum.pdb
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\obj\Debug\net9.0\Quantum.genruntimeconfig.cache
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm2\NesneYönelimli\Quantum\c#\obj\Debug\net9.0\ref\Quantum.dll
