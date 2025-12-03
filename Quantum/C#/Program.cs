@@ -1,4 +1,8 @@
-﻿using System;
+////////////////////////////////////////////
+//           BARIŞ TAHTALIOĞLU            //
+//              TH-GROUP                  //
+////////////////////////////////////////////
+using System;
 using System.Collections.Generic;
 
 // 1. ÖZEL HATA YÖNETİMİ
@@ -216,4 +220,5 @@ class Program
             Console.WriteLine("*********************************");
         }
     }
+
 }
