@@ -1,3 +1,7 @@
+#////////////////////////////////////////////
+#//           BARIŞ TAHTALIOĞLU            //
+#//              TH-GROUP                  //
+#////////////////////////////////////////////
 import random
 import time
 from abc import ABC, abstractmethod
@@ -162,4 +166,5 @@ def main():
         print("*********************************")
 
 if __name__ == "__main__":
+
     main()
